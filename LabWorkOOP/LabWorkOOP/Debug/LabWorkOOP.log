@@ -1,1 +1,22 @@
-﻿  LabWorkOOP.vcxproj -> C:\Users\IVT_1-341_11\source\repos\GitHub\lab-work-OOP\LabWorkOOP\Debug\LabWorkOOP.exe
+﻿  Driver.cpp
+C:\Users\IVT_1-341_11\source\repos\GitHub\lab-work-OOP\LabWorkOOP\LabWorkOOP\Lab2.h(9,16): warning C4838: Преобразование из "int" в "SHORT" требует сужающего преобразования.
+C:\Users\IVT_1-341_11\source\repos\GitHub\lab-work-OOP\LabWorkOOP\LabWorkOOP\Lab2.h(9,19): warning C4838: Преобразование из "int" в "SHORT" требует сужающего преобразования.
+C:\Users\IVT_1-341_11\source\repos\GitHub\lab-work-OOP\LabWorkOOP\LabWorkOOP\Lab3.h(32,82): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\IVT_1-341_11\source\repos\GitHub\lab-work-OOP\LabWorkOOP\LabWorkOOP\Lab3.h(32,64): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\IVT_1-341_11\source\repos\GitHub\lab-work-OOP\LabWorkOOP\LabWorkOOP\Lab3.h(32,46): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\IVT_1-341_11\source\repos\GitHub\lab-work-OOP\LabWorkOOP\LabWorkOOP\Lab3.h(32,28): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\IVT_1-341_11\source\repos\GitHub\lab-work-OOP\LabWorkOOP\LabWorkOOP\Lab3.h(45,82): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\IVT_1-341_11\source\repos\GitHub\lab-work-OOP\LabWorkOOP\LabWorkOOP\Lab3.h(45,64): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\IVT_1-341_11\source\repos\GitHub\lab-work-OOP\LabWorkOOP\LabWorkOOP\Lab3.h(45,46): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\IVT_1-341_11\source\repos\GitHub\lab-work-OOP\LabWorkOOP\LabWorkOOP\Lab3.h(45,28): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\IVT_1-341_11\source\repos\GitHub\lab-work-OOP\LabWorkOOP\LabWorkOOP\Lab3.h(76,37): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\IVT_1-341_11\source\repos\GitHub\lab-work-OOP\LabWorkOOP\LabWorkOOP\Lab3.h(76,18): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\IVT_1-341_11\source\repos\GitHub\lab-work-OOP\LabWorkOOP\LabWorkOOP\Lab3.h(77,35): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\IVT_1-341_11\source\repos\GitHub\lab-work-OOP\LabWorkOOP\LabWorkOOP\Lab3.h(77,16): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\IVT_1-341_11\source\repos\GitHub\lab-work-OOP\LabWorkOOP\LabWorkOOP\Lab3.h(89,37): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\IVT_1-341_11\source\repos\GitHub\lab-work-OOP\LabWorkOOP\LabWorkOOP\Lab3.h(89,18): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\IVT_1-341_11\source\repos\GitHub\lab-work-OOP\LabWorkOOP\LabWorkOOP\Lab3.h(90,35): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\IVT_1-341_11\source\repos\GitHub\lab-work-OOP\LabWorkOOP\LabWorkOOP\Lab3.h(90,16): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\IVT_1-341_11\source\repos\GitHub\lab-work-OOP\LabWorkOOP\LabWorkOOP\Lab3.h(102,18): warning C4305: *=: усечение из "double" в "float"
+C:\Users\IVT_1-341_11\source\repos\GitHub\lab-work-OOP\LabWorkOOP\LabWorkOOP\Lab3.h(105,10): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  LabWorkOOP.vcxproj -> C:\Users\IVT_1-341_11\source\repos\GitHub\lab-work-OOP\LabWorkOOP\Debug\LabWorkOOP.exe

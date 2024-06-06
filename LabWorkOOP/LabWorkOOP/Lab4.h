@@ -67,8 +67,8 @@ private:
 
 void lab4_4() {
     system("cls");
-    Date dateS(1, 1, 2024);
-    Date dateE(1, 2, 2024);
+    Date dateS(1, 1, 2024); // 1 января 2024
+    Date dateE(1, 2, 2024); // 1 феврфля 2024
 
     // Определение числа дней между двумя датами
     int daysBetween = dateE % dateS;

@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\IVT_1-341_11\\source\\repos\\GitHub\\lab-work-OOP\\LabWorkOOP\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{9EF234F4-5573-4211-AEBE-7C6AB924A068}|LabWorkOOP\\LabWorkOOP.vcxproj|C:\\Users\\IVT_1-341_11\\source\\repos\\GitHub\\lab-work-OOP\\LabWorkOOP\\LabWorkOOP\\Lab4.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9EF234F4-5573-4211-AEBE-7C6AB924A068}|LabWorkOOP\\LabWorkOOP.vcxproj|solutionrelative:LabWorkOOP\\Lab4.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9EF234F4-5573-4211-AEBE-7C6AB924A068}|LabWorkOOP\\LabWorkOOP.vcxproj|C:\\Users\\IVT_1-341_11\\source\\repos\\GitHub\\lab-work-OOP\\LabWorkOOP\\LabWorkOOP\\Driver.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{9EF234F4-5573-4211-AEBE-7C6AB924A068}|LabWorkOOP\\LabWorkOOP.vcxproj|solutionrelative:LabWorkOOP\\Driver.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
@@ -19,6 +23,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Lab4.h",
+              "DocumentMoniker": "C:\\Users\\IVT_1-341_11\\source\\repos\\GitHub\\lab-work-OOP\\LabWorkOOP\\LabWorkOOP\\Lab4.h",
+              "RelativeDocumentMoniker": "LabWorkOOP\\Lab4.h",
+              "ToolTip": "C:\\Users\\IVT_1-341_11\\source\\repos\\GitHub\\lab-work-OOP\\LabWorkOOP\\LabWorkOOP\\Lab4.h",
+              "RelativeToolTip": "LabWorkOOP\\Lab4.h",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAAEYAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-05T08:54:51.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Driver.cpp",
               "DocumentMoniker": "C:\\Users\\IVT_1-341_11\\source\\repos\\GitHub\\lab-work-OOP\\LabWorkOOP\\LabWorkOOP\\Driver.cpp",
               "RelativeDocumentMoniker": "LabWorkOOP\\Driver.cpp",
